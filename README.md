@@ -32,10 +32,6 @@ This project demonstrates a **fraud detection system** using **XGBoost**, **Pand
    ```bash
    pip install pandas numpy seaborn matplotlib scikit-learn xgboost
    ```
-2. Run the notebook or Python script.
-   ```bash
-   python fraud_detection.py
-   ```
 
 ## Results
 - Fraudulent transactions are successfully classified with high recall.
