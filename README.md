@@ -44,11 +44,11 @@ Installation & Usage
 
 Install required dependencies:
 
-pip install pandas numpy seaborn matplotlib scikit-learn xgboost
+`pip install pandas numpy seaborn matplotlib scikit-learn xgboost`
 
 Run the notebook or Python script.
 
-python fraud_detection.py
+`python fraud_detection.py`
 
 Results
 
